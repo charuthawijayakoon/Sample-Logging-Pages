@@ -1,0 +1,129 @@
+body {
+    background: rgba(201,240,237,1);
+}
+.main {
+    background: rgba(201,240,237,1);
+}
+
+.grey_background {
+    background: rgba(255,255,255,1);
+    border: 5px solid rgba(0,0,0,1);
+}
+
+.heading_1 {
+    color: rgba(0,0,0,1);
+}
+
+.para_1 {
+    color: rgba(151,151,151,1);
+}
+
+.alert_2 {
+    color: rgba(0,0,0,1);
+}
+
+b {
+    color: rgb(9, 54, 136);
+}
+
+/*.btn {
+    background: rgba(255,216,56,1);
+}*/
+
+.signup {
+    color: rgba(0,0,0,1);
+}
+
+.name {
+    color: #fff;
+}
+
+.signup5 {
+    background: rgba(255,255,255,1);
+}
+
+.seperator_1 {
+    color: rgba(81,103,117,1);
+}
+
+.terms4 {
+    background: rgba(255,255,255,1);
+}
+
+.seperator_2 {
+    color: rgba(81,103,117,1);
+}
+
+/*.name4 {
+    background: rgba(241,246,250,1);
+    border: 1px solid rgba(81,103,117,1);
+}
+
+.input_name {
+    color: rgba(0,0,0,1);
+}
+
+.Name {
+    color: rgba(0,0,0,1);
+}
+
+.email4 {
+    background: rgba(241,246,250,1);
+    border: 1px solid rgba(81,103,117,1);
+}
+
+.input_email {
+    color: rgba(0,0,0,1);
+}
+
+.Business {
+    color: rgba(0,0,0,1);
+}
+
+.company4 {
+    background: rgba(241,246,250,1);
+    border: 1px solid rgba(81,103,117,1);
+}
+
+.input_company {
+    color: rgba(0,0,0,1);
+}
+
+.Company {
+    color: rgba(0,0,0,1);
+}
+
+.input_pass {
+    color: rgba(0,0,0,1);
+}
+
+.pass3 {
+    background: rgba(241,246,250,1);
+    border: 1px solid rgba(81,103,117,1);
+}
+
+.Password {
+    color: rgba(0,0,0,1);
+}
+
+.pass5 {
+    background: rgba(81,103,117,1);
+}*/
+
+input[type=text], [type=email], [type=password] {
+    border: 1px solid #ccc;
+    background-color: rgb(235, 235, 235);
+}
+
+input[type=submit] {
+    background-color: rgba(255,216,56,1);
+    color: black;
+}
+
+.form {
+    background-color: #ffffff;
+}
+
+.Icon-inside i {
+    color:#a0a0a0;
+}
